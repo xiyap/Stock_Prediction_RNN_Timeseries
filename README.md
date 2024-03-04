@@ -1,1 +1,1 @@
-# stock_prediction_rnn_timeseries
+# Stock_Prediction_RNN_Timeseries
